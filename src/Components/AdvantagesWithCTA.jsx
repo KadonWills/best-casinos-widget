@@ -15,12 +15,11 @@ const AdvantagesWithCTA = () => {
 
             <Col className='flex flex-col md:flex-row md:w-full lg:flex-col lg:w-1/2 md:space-y-0 md:justify-between lg:justify-normal lg:space-x-0 space-y-2 lg:space-y-2 '>
                 {advantages.map((advantage) => (
-                    <Row className='flex   space-x-2 items-center h-6  w-max'>
+                    <Row className='flex   space-x-2 items-center h-full  w-max'>
                         <span>
                             <CheckCircleFilled className='text-green-600 text-lg m-0 p-0' />
                         </span>
-                        <span>
-                            <Typography.Text className='font-sans font-medium flex text  align-middle' >{advantage}</Typography.Text>
+                        <span  className='font-sans font-medium flex text  align-middle' >{advantage} 
                         </span>
                     </Row>
                 ))}
