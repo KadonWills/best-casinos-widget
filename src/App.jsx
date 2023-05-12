@@ -45,10 +45,10 @@ const App = () => {
 
         </Row >
 
-        <code className=' absolute bottom-5 left-3 font-mono text-blue-950 bg-cyan-300 px-2 text-base'>
+        <code className=' absolute bottom-2 left-3 font-mono text-blue-950 bg-cyan-300 px-2 text-base'>
           {'for Blue Window'}
         </code>
-        <code className=' absolute bottom-12 lg:bottom-5 right-3 font-mono text-blue-950 text-base'>
+        <code className=' absolute bottom-5 lg:bottom-2 right-3 font-mono text-blue-950 text-base'>
           {'By Brondon Wills '} <a href='mailto:kapolw@gmail.com' target='_blank' className='text-cyan-600 hover:bg-blue-950 hover:text-cyan-300'>{'<kapolw@gmail.com>'}</a>
         </code>
 
