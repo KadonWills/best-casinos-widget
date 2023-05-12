@@ -15,7 +15,7 @@ const App = () => {
     <Layout>
 
       <main className='w-screen  h-screen  grid place-items-center bg-white' >
-        <Row className='p-3 w-full max-w-[390px] md:max-w-none grid  md:px-10 lg:p-14 xl:p-20   '>
+        <Row className='p-3 w-full max-w-[390px] md:max-w-none grid  md:px-10 lg:p-14 xl:max-w-7xl   '>
 
           <Header />
 
