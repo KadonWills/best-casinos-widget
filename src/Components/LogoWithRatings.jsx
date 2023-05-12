@@ -12,7 +12,7 @@ const LogoWithRatings = () => {
             <Col span={12} className='lg:max-w-min'>
 
                 <div className="w-[124px] h-[124px] md:w-[170px] md:h-[170px] lg:w-[124px] lg:h-[124px] rounded-full bg-[#6a45a5] relative">
-                    <InfoOutlined className="stroke-2 rounded-full border border-slate-700 aspect-square w-7 h-7 absolute -top-3 -right-3 text-slate-500 text-sm font-bold" />
+                    <InfoOutlined className="stroke-2 rounded-full border border-slate-700 aspect-square w-7 h-7  absolute -top-3 -right-3 text-slate-500 text-sm justify-center font-bold" />
                 </div>
             </Col>
 
