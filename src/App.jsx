@@ -45,7 +45,7 @@ const App = () => {
 
         </Row >
 
-        <code className=' absolute bottom-2 lg:bottom-3 left-3 font-mono text-blue-950 bg-cyan-300 px-2 text-base'>
+        <code className=' absolute bottom-0 lg:bottom-3 left-3 font-mono text-blue-950 bg-cyan-300 px-2 text-base'>
           {'for Blue Window'}
         </code>
         <code className=' absolute bottom-5 lg:bottom-3 right-3 font-mono text-blue-950 text-base'>
